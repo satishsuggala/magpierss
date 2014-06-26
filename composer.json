@@ -1,6 +1,7 @@
 {
-"name": "kellan/magpierss",
-"description": "A simple RSS integration tool",
-"require": {
-"php": ">=5.3.0"
+    "name": "kellan/magpierss",
+    "description": "A simple RSS integration tool",
+    "require": {
+        "php": ">=5.3.0"
+    }
 }
